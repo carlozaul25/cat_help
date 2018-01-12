@@ -25,15 +25,8 @@ li a.active {
     color: white;
 }
 
-li a:hover:not(.active) {
-    background-color: #755;
-    color: white;
 }
-#catpic{
-    margin: 0;
-    width: 30px
-    background-color: white;
-    position: left;
-    
-
+li a:hover:not(.active) 
+    background-color: #755;
+    color: white;   
 }
