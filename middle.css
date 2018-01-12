@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#Main_Title
+{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 60;
+	border-bottom: 2px solid black;
+}
+
+#Nav
+{
+		width: 70%;
+		text-align: center;
+		margin-top: 100px;
+		margin-left: 200px;
+		padding-bottom: 30px;
+}
+
+#Nav ul
+{
+	list-style-type: none;
+}
+
+#Nav ul li
+{
+	display: inline;
+	font-size: 45px;
+}
